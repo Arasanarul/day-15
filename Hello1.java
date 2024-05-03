@@ -1,5 +1,5 @@
 import java.util.*;
-public class Hello {
+public class Hello1 {
 
     public static void main(String[] args) {
 		//Array to Diagonals Pattern
